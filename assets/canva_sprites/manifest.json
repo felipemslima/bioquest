@@ -1,0 +1,286 @@
+{
+  "source": "telas_montadas_no_canva.html",
+  "totalImageTags": 243,
+  "uniqueImages": 27,
+  "downloaded": 18,
+  "blobOnly": 9,
+  "failed": 0,
+  "images": [
+    {
+      "index": 0,
+      "alt": "Stars Pixel.",
+      "src": "https://media-public.canva.com/O52Xk/MAGI1iO52Xk/1/t.png",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/00-stars-pixel-MAGI1iO52Xk.png",
+      "bytes": 309,
+      "sha256": "cb54fa6eb65bcea520819ab3d75e652b362ac605306688f69cc3eb4de615260f",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/stars.png"
+      ]
+    },
+    {
+      "index": 1,
+      "alt": "Pixelated Pastel Cloud",
+      "src": "https://media-public.canva.com/gsM5U/MAFIVhgsM5U/1/t.png",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/01-pixelated-pastel-cloud-MAFIVhgsM5U.png",
+      "bytes": 2754,
+      "sha256": "4ad50034a34c48f3f2230d4e317b1df77d091440fa59576a3ca55fa8037cc2ba",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/cloud1.png"
+      ]
+    },
+    {
+      "index": 2,
+      "alt": "Pixelated Pastel Clouds",
+      "src": "https://media-public.canva.com/7UXuY/MAFIVk7UXuY/1/t.png",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/02-pixelated-pastel-clouds-MAFIVk7UXuY.png",
+      "bytes": 1510,
+      "sha256": "7a5a635355993deeca79dae6e40e860035c8d29dcfc079300d3a475d72b5117a",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/cloud2.png"
+      ]
+    },
+    {
+      "index": 3,
+      "alt": "Retro Cartoon Pixel Water Droplets",
+      "src": "blob:https://www.canva.com/3f0316c1-ef69-44b5-a2fb-45bf1fc20303",
+      "status": "blob-url-not-downloadable-from-static-html"
+    },
+    {
+      "index": 4,
+      "alt": "",
+      "src": "https://media.canva.com/v2/image-resize/format:PNG/height:75/quality:100/uri:ifs%3A%2F%2FM%2Fa49047a8-6407-4789-a48a-d1204b254b79/watermark:F/width:75?csig=AAAAAAAAAAAAAAAAAAAAAIQNK1ag1WDqECEJixA5oz9nDlOT_q-hpR8gzgOsCc52&exp=1779861639&osig=AAAAAAAAAAAAAAAAAAAAAC_ZagdygePi00Y0OLIUTHPIkJgtkQcUcK7X-pjxHZ0l&signer=media-rpc&x-canva-quality=nano_thumbnail",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/03-canva-image-a49047a8.png",
+      "bytes": 8705,
+      "sha256": "9ed28ad6700347b4776fccea9b7b92a038769c1ee4922d9fae146f84d7e529f2",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/boss.png",
+        "assets/signed_0.png"
+      ]
+    },
+    {
+      "index": 5,
+      "alt": "",
+      "src": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Ff767bf2e-79be-42fd-88d7-cd947f015ad9/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAALwPtyQFlHNjPqhN4_QwGqr3YcYq3TSNWMoD12CvL6Gm&exp=1779862952&osig=AAAAAAAAAAAAAAAAAAAAABomoCbJUokCOQq2FcGN0JB1Cbyq7Lf2bStZ6cNRf3qb&signer=media-rpc&x-canva-quality=pico_thumbnail",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/04-canva-image-f767bf2e.png",
+      "bytes": 1951,
+      "sha256": "e79f433dfb08d032bb6ea350e842b1e664f4ec983fd02f75d43bfab5107ba91b",
+      "contentType": "image/png",
+      "matchesExistingAssets": []
+    },
+    {
+      "index": 6,
+      "alt": "lungs",
+      "src": "https://media-public.canva.com/xQ1-E/MAD9-zxQ1-E/1/t.png",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/05-lungs-MAD9-zxQ1-E.png",
+      "bytes": 2230,
+      "sha256": "ceb5ad097f6624f5ddaeb62b2e05ab1b67f6e0f436d9be127f3fcfd91b6f67fd",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/lungs.png"
+      ]
+    },
+    {
+      "index": 7,
+      "alt": "Pixelated Brick Wall",
+      "src": "blob:https://www.canva.com/cd566641-821b-44ec-a6d3-092631481ab5",
+      "status": "blob-url-not-downloadable-from-static-html"
+    },
+    {
+      "index": 8,
+      "alt": "Pixelated Full Moon",
+      "src": "blob:https://www.canva.com/0ebb6c41-f8ea-4952-9c71-b4f5215c824d",
+      "status": "blob-url-not-downloadable-from-static-html"
+    },
+    {
+      "index": 9,
+      "alt": "Pixel Old Tech Extended Oblong",
+      "src": "blob:https://www.canva.com/c54e5490-8b1d-47e3-8e69-1d905844a310",
+      "status": "blob-url-not-downloadable-from-static-html"
+    },
+    {
+      "index": 10,
+      "alt": "Pixelated Flower Bed",
+      "src": "blob:https://www.canva.com/f6c57830-70c9-43d9-af0e-20ef7233548d",
+      "status": "blob-url-not-downloadable-from-static-html"
+    },
+    {
+      "index": 11,
+      "alt": "Pixelated Flowery Tree",
+      "src": "https://media-public.canva.com/YkBlY/MAFIVqYkBlY/1/t.png",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/06-pixelated-flowery-tree-MAFIVqYkBlY.png",
+      "bytes": 5500,
+      "sha256": "80aac8e2e16b9d81964887c517865d1ff0d98c94641efccab6ffa9b11c8f787e",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/tree.png"
+      ]
+    },
+    {
+      "index": 12,
+      "alt": "",
+      "src": "https://media.canva.com/v2/image-resize/format:PNG/height:69/quality:100/uri:ifs%3A%2F%2FM%2F4d0ead15-ee79-42d8-b095-a79461351707/watermark:F/width:75?csig=AAAAAAAAAAAAAAAAAAAAAP2Ge71NiT9c-zLhJBoingqNss8KIveFzJjtRZwP_bbf&exp=1779861455&osig=AAAAAAAAAAAAAAAAAAAAAJtkuJY-Bs7ZNsBvaqXgVW1qSraZ-Zi5z8O0quYqcFnT&signer=media-rpc&x-canva-quality=nano_thumbnail",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/07-canva-image-4d0ead15.png",
+      "bytes": 2945,
+      "sha256": "f883fea8e402a4e5ae723d8ed60e4792f94784457899b9a15a4d18bc2e36af3e",
+      "contentType": "image/png",
+      "matchesExistingAssets": []
+    },
+    {
+      "index": 13,
+      "alt": "",
+      "src": "https://media.canva.com/v2/image-resize/format:PNG/height:75/quality:100/uri:ifs%3A%2F%2FM%2F5025df44-e344-4857-b6fe-a6dc88f38f13/watermark:F/width:75?csig=AAAAAAAAAAAAAAAAAAAAAB5qcJCmHI2iktEOM7N8F6NosMRZsEGA4n9cGCXsXveC&exp=1779863438&osig=AAAAAAAAAAAAAAAAAAAAAHZd2ssQ127a4Pp6OhqS9sjf225ZLv94fipqFibtmfpE&signer=media-rpc&x-canva-quality=nano_thumbnail",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/08-canva-image-5025df44.png",
+      "bytes": 3274,
+      "sha256": "4e1c0ba381de4fb9c1842ac50f6fd655dc3f0992593114d3b6114adce864eeab",
+      "contentType": "image/png",
+      "matchesExistingAssets": []
+    },
+    {
+      "index": 14,
+      "alt": "Pixel Sparkles Icon",
+      "src": "blob:https://www.canva.com/bb223f5d-166d-4341-9ffb-ff31300a9855",
+      "status": "blob-url-not-downloadable-from-static-html"
+    },
+    {
+      "index": 15,
+      "alt": "Five Hearts Pixel Art Video Game Asset",
+      "src": "blob:https://www.canva.com/af1b0287-a34a-4152-8c0a-11177d9ff613",
+      "status": "blob-url-not-downloadable-from-static-html"
+    },
+    {
+      "index": 16,
+      "alt": "",
+      "src": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F397f5274-9fa6-41fa-80e9-576a71b8aff3/watermark:F/width:38?csig=AAAAAAAAAAAAAAAAAAAAAHAZhq9cPDESHfyZfWBuC1cL997E98moXe-H7n3Rbo2z&exp=1779863152&osig=AAAAAAAAAAAAAAAAAAAAAJ_cdk2Ppl7jmniZvpyYhqlbceBkG9Agf1-ZqhD426Au&signer=media-rpc&x-canva-quality=pico_thumbnail",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/09-canva-image-397f5274.png",
+      "bytes": 1522,
+      "sha256": "99f9ad98dd076280003da478b73c8eb257c4d872cce47bdcb7de5b9445534120",
+      "contentType": "image/png",
+      "matchesExistingAssets": []
+    },
+    {
+      "index": 17,
+      "alt": "",
+      "src": "https://media.canva.com/v2/image-resize/format:PNG/height:48/quality:100/uri:ifs%3A%2F%2FM%2F2fffa15f-6d17-4a44-9881-9219795729d6/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAK_65eFu1tNeykCQx4AcEzQ_mXsF1mKcJ5s_T2Ku0F47&exp=1779862833&osig=AAAAAAAAAAAAAAAAAAAAAMfj3k8G4fTjeYGnxBn2BiwcM1kGI1XR9-BonviOXybr&signer=media-rpc&x-canva-quality=pico_thumbnail",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/10-canva-image-2fffa15f.png",
+      "bytes": 5747,
+      "sha256": "14e4c9a783907dd56b01c614a5d533d32e42f13f76560eec4496ce9caeb446c1",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/lung_gray.png",
+        "assets/signed_5.png"
+      ]
+    },
+    {
+      "index": 18,
+      "alt": "",
+      "src": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F4985d34e-13ff-4e4c-b5c9-533c7a5114f8/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAAhy9jj29SsCmgtlJweoW2kR7RBjGQyGi9Pn6UuT8Khm&exp=1779860575&osig=AAAAAAAAAAAAAAAAAAAAAMJ1zMy_GKWrfsZeJ7Tf5py9qowt6aJRSkrUp1bBqdMt&signer=media-rpc&x-canva-quality=pico_thumbnail",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/11-canva-image-4985d34e.png",
+      "bytes": 1651,
+      "sha256": "c98ee42bf5be28c7b64005819bcce8e2a2a9e907b370ae45aad158b26e28661a",
+      "contentType": "image/png",
+      "matchesExistingAssets": []
+    },
+    {
+      "index": 19,
+      "alt": "",
+      "src": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Fa8ead3bb-f374-4a8d-abcc-ae42bbdae56f/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAOOJbmucbKRGMHMBI747uABM4kdqeL13a-jimDV4b8tm&exp=1779862162&osig=AAAAAAAAAAAAAAAAAAAAALsFhvHLLlUIe69xNyhMAqAZ0n0QiMkeXmLRUzdzejsW&signer=media-rpc&x-canva-quality=pico_thumbnail",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/12-canva-image-a8ead3bb.png",
+      "bytes": 1105,
+      "sha256": "013711c8bcd7904735572a5db57471bc0ac9f791cfb271893a991f24c83e3fce",
+      "contentType": "image/png",
+      "matchesExistingAssets": []
+    },
+    {
+      "index": 20,
+      "alt": "Pixelated Arcade Pipe",
+      "src": "https://media-public.canva.com/WZckQ/MAFK4OWZckQ/1/t.png",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/13-pixelated-arcade-pipe-MAFK4OWZckQ.png",
+      "bytes": 238,
+      "sha256": "c1df22996044c74d1dd2a5ec8a72b001d8f6708bbcf45acd459a0d54068bf4a6",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/pipe.png"
+      ]
+    },
+    {
+      "index": 21,
+      "alt": "Pixelated Arcade Pipe",
+      "src": "blob:https://www.canva.com/59deec69-80a7-4901-b4ee-580a72b2daa7",
+      "status": "blob-url-not-downloadable-from-static-html"
+    },
+    {
+      "index": 22,
+      "alt": "Pixel Art Brick Wall",
+      "src": "https://media-public.canva.com/qmT9E/MAFW3_qmT9E/1/t.png",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/14-pixel-art-brick-wall-MAFW3_qmT9E.png",
+      "bytes": 1286,
+      "sha256": "4372a1fccd8b1035b8ea6073911a126b7f08ffe47bec65a44c6d7b8aad8aa0fa",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/brickwall.png"
+      ]
+    },
+    {
+      "index": 23,
+      "alt": "Pixelated Flower Bed",
+      "src": "https://media-public.canva.com/8arcE/MAFIVt8arcE/1/t.png",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/15-pixelated-flower-bed-MAFIVt8arcE.png",
+      "bytes": 428,
+      "sha256": "ec1003a3e59ab3fa7fe8209dc02c22ba9c388930d549ad92a38222794f9d0f70",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/flowerbed.png"
+      ]
+    },
+    {
+      "index": 24,
+      "alt": "Dopamine Pixel Bellflower",
+      "src": "https://media-public.canva.com/WxUAQ/MAFU5ZWxUAQ/1/t.png",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/16-dopamine-pixel-bellflower-MAFU5ZWxUAQ.png",
+      "bytes": 2680,
+      "sha256": "9775a413f96060a3da9b6e2c2efad986927f47b82e73de3634eff6806f62c68d",
+      "contentType": "image/png",
+      "matchesExistingAssets": [
+        "assets/bellflower.png"
+      ]
+    },
+    {
+      "index": 25,
+      "alt": "",
+      "src": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F73742967-d82c-4b53-82cd-005d6685e42a/watermark:F/width:40?csig=AAAAAAAAAAAAAAAAAAAAAKD9Md1tD5n-ZUMXcig04jooaMXKsqWBFiBIskOvxhzl&exp=1779861051&osig=AAAAAAAAAAAAAAAAAAAAAAkVeu5VnzBLixhraiaCdrRrXluSIekMa69mVWon4C5K&signer=media-rpc&x-canva-quality=pico_thumbnail",
+      "status": "downloaded",
+      "file": "assets/canva_sprites/17-canva-image-73742967.png",
+      "bytes": 2303,
+      "sha256": "82503db7e33fbbbab1dbd79baee483befeaf3a8f605894c5f7d40321053445d2",
+      "contentType": "image/png",
+      "matchesExistingAssets": []
+    },
+    {
+      "index": 26,
+      "alt": "Pixelated Arcade Mountain",
+      "src": "blob:https://www.canva.com/4b42c277-6895-430e-bfe1-71c789424acb",
+      "status": "blob-url-not-downloadable-from-static-html"
+    }
+  ]
+}

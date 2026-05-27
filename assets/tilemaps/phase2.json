@@ -1,0 +1,45 @@
+{
+  "compressionlevel":-1,
+  "height":35,
+  "infinite":false,
+  "layers":[
+    {
+      "draworder":"topdown",
+      "id":1,
+      "name":"platforms",
+      "objects":[
+        {"id":1,"name":"","type":"ground",  "x":0,   "y":490,"width":2400,"height":40,"rotation":0,"visible":true},
+        {"id":2,"name":"","type":"platform","x":200, "y":420,"width":150, "height":40,"rotation":0,"visible":true},
+        {"id":3,"name":"","type":"platform","x":450, "y":350,"width":150, "height":40,"rotation":0,"visible":true},
+        {"id":4,"name":"","type":"platform","x":700, "y":420,"width":150, "height":40,"rotation":0,"visible":true},
+        {"id":5,"name":"","type":"platform","x":950, "y":340,"width":170, "height":40,"rotation":0,"visible":true},
+        {"id":6,"name":"","type":"platform","x":1220,"y":430,"width":160, "height":40,"rotation":0,"visible":true},
+        {"id":7,"name":"","type":"platform","x":1470,"y":360,"width":180, "height":40,"rotation":0,"visible":true}
+      ],
+      "opacity":1,"type":"objectgroup","visible":true,"x":0,"y":0
+    },
+    {
+      "draworder":"topdown",
+      "id":2,
+      "name":"spawns",
+      "objects":[
+        {"id":10,"name":"player_start", "type":"","x":120, "y":440,"width":1,"height":1,"rotation":0,"visible":true},
+        {"id":11,"name":"cell",         "type":"","x":1850,"y":410,"width":90,"height":80,"rotation":0,"visible":true},
+        {"id":12,"name":"neutro_spawn", "type":"","x":850, "y":10, "width":1,"height":1, "rotation":0,"visible":true},
+        {"id":13,"name":"macro_spawn",  "type":"","x":1700,"y":380,"width":1,"height":1, "rotation":0,"visible":true}
+      ],
+      "opacity":1,"type":"objectgroup","visible":true,"x":0,"y":0
+    }
+  ],
+  "nextlayerid":3,
+  "nextobjectid":30,
+  "orientation":"orthogonal",
+  "renderorder":"right-down",
+  "tiledversion":"1.10.2",
+  "tileheight":16,
+  "tilewidth":16,
+  "tilesets":[],
+  "type":"map",
+  "version":"1.10",
+  "width":150
+}
